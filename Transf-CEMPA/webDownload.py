@@ -37,5 +37,4 @@ for link in links:
         # Baixar o arquivo
         download_file(file_url, filename)
         print(f"Arquivo {filename} baixado com sucesso!")
-
-
+# - 
